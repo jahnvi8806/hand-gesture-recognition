@@ -19,3 +19,6 @@ Open index.html in Chrome or run with Live Server.
 - CSS
 - JavaScript
 - MediaPipe Hands
+
+## Demo Video
+- "C:\Users\HP\Videos\Captures\Hand Gesture Recognition 2026-06-15 15-34-52.mp4"
